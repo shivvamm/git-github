@@ -1,5 +1,3 @@
-Certainly! Here's a list of 50 quiz questions related to pointers in C, presented in the form of "guess the output" scenarios. These questions cover a range of difficulty levels from easy to hard:
-
 ### Easy Level (1-20)
 
 1. **Question:** 
