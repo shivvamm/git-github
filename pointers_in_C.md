@@ -381,9 +381,7 @@ Certainly! Here's a list of 50 quiz questions related to pointers in C, presente
         return 0;
     }
     ```
-    **
-
-Output:**
+    **Output:**
     - A) 1
     - B) 2
     - C) 3
@@ -770,9 +768,7 @@ Output:**
     - C) 3
     - D) Garbage Value
 
-38
-
-. **Question:**
+38. **Question:**
     ```c
     #include <stdio.h>
     
@@ -786,6 +782,7 @@ Output:**
         return 0;
     }
     ```
+    
     **Output:**
     - A) 5, Garbage Value
     - B) 5, 5
